@@ -590,4 +590,3 @@ print(f"保存先: {MANUALS_DST_DIR}")
 
 # COMMAND ----------
 
-

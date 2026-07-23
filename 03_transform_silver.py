@@ -1,4 +1,8 @@
 # Databricks notebook source
+# /// script
+# [tool.databricks.environment]
+# environment_version = "5"
+# ///
 # MAGIC %md
 # MAGIC このノートブックは、01_setupから呼ばれるため、個別実行は不要です。
 # MAGIC # Task 2: Silver -- データ変換・クレンジング
