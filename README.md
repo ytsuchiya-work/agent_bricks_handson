@@ -1,0 +1,2 @@
+# agent_bricks_handson
+エージェントを活用してECサイトの分析を行うハンズオン
